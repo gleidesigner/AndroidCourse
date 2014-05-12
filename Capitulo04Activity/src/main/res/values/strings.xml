@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">CursoAndroid</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
     <string name="action_settings">Settings</string>
 
 </resources>
